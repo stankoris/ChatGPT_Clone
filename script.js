@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 const chatInput = document.querySelector("#chat-input");
 const sendButton = document.querySelector("#send-btn");
 const chatContainer = document.querySelector(".chat-container");
@@ -76,4 +74,3 @@ const handleOutgoingChat = () => {
 }
 
 sendButton.addEventListener("click", handleOutgoingChat);
->>>>>>> 1fb417d (....)
